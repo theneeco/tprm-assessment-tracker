@@ -1,0 +1,37 @@
+Content-Type: multipart/mixed; boundary="===============1972529904666079344=="
+MIME-Version: 1.0
+From: Vendor Risk Management <tprm@yourorg.com.au>
+To: security@yourorg.com.au
+Subject: TPRM digest: 11 item(s) need attention
+
+--===============1972529904666079344==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+TPRM digest for 10 November 2026
+
+Vendors by status: Approved: 1, Approved with Conditions: 2, Escalated: 1, Not Due: 3, Reminder Sent: 1, Requested: 8
+
+Escalated (vendor not responding) (1)
+  - V010 Kestrel Travel Management (Medium), first requested 2026-08-05
+
+Reassessment overdue (8)
+  - V001 Southern Cross Cloud Hosting (Critical), 32d overdue, status Requested
+  - V002 Payline Payroll Services (Critical), 112d overdue, status Reminder Sent
+  - V004 Ironbark Engineering Design (Critical), 48d overdue, status Requested
+  - V007 Meridian IT Support (High), 22d overdue, status Requested
+  - V009 Pulse Survey Analytics (Medium), 29d overdue, status Requested
+  - V010 Kestrel Travel Management (Medium), 101d overdue, status Escalated
+  - V013 Greenleaf Office Supplies (Low), 145d overdue, status Requested
+  - V014 Swift Print & Mail (Low), 435d overdue, status Requested
+
+Conditions past due (1)
+  - V012 Cobalt Learning Platform (Medium): Provide evidence of MFA enforcement for all admin staff (due 2026-09-15)
+
+Missing business owner (1)
+  - V016 Brightline Catering (Low)
+
+Vendor Risk Management
+
+--===============1972529904666079344==--

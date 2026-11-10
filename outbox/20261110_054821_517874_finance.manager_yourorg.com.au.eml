@@ -1,0 +1,29 @@
+Content-Type: multipart/mixed; boundary="===============0644537901286057127=="
+MIME-Version: 1.0
+From: Vendor Risk Management <tprm@yourorg.com.au>
+To: finance.manager@yourorg.com.au
+Cc: security@yourorg.com.au
+Subject: Repeat Escalation: Vendor not responding to security assessment
+ [TPRM-V010] Kestrel Travel Management
+
+--===============0644537901286057127==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Kestrel Travel Management (Medium risk) has not returned its security questionnaire despite an initial request, a reminder and a final notice.
+
+First requested: 2026-08-05 (97 days ago)
+Last completed assessment: 2025-08-01
+Reassessment overdue by 101 days
+Vendor contact: compliance@kestreltravel-example.com.au
+
+As the business owner of this relationship, please contact the vendor directly to obtain the completed questionnaire. If the vendor will not engage, a decision is needed on whether to accept the risk, restrict their access, or exit the relationship.
+
+This escalation repeats every 14 days until resolved.
+
+Vendor Risk Management
+
+--===============0644537901286057127==--

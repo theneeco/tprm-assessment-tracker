@@ -1,0 +1,17 @@
+# Environment / local config
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Runtime artifacts (created when the tool actually runs)
+outbox/
+evidence/
+tprm_audit_log.csv
+cron.log
+
+# OS
+.DS_Store

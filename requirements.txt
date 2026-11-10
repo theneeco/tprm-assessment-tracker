@@ -1,0 +1,2 @@
+# Optional: the tracker falls back to its own .env parser if this isn't installed.
+python-dotenv

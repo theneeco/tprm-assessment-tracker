@@ -1,0 +1,17 @@
+vendor_id,vendor_name,contact_email,risk_tier,business_owner_email,last_assessment_date,status,request_sent_date,response_due_date,reminder_count,last_reminder_sent_date,last_escalation_date,response_received_date,response_file,response_sha256,score,residual_rating,red_flags,review_decision,reviewer,review_date,conditions,conditions_due_date,service_provided
+V001,Southern Cross Cloud Hosting,security@southerncross-example.com.au,Critical,it.manager@yourorg.com.au,2026-04-10,Not Due,,,,,,,,,,,,,,,,,IaaS hosting for ERP and engineering file servers
+V002,Payline Payroll Services,compliance@payline-example.com.au,Critical,hr.manager@yourorg.com.au,2026-01-20,Requested,2026-09-15,2026-09-29,0,2026-09-15,,,,,,,,,,,,,Outsourced payroll incl. cleared staff personal data
+V003,Bastion Managed Security,grc@bastion-example.com.au,Critical,security.manager@yourorg.com.au,2026-06-02,Approved,,,,,,,,,92,Low,,approve,Rocky,2026-06-02,,,"24x7 SOC, SIEM monitoring and incident response retainer"
+V004,Ironbark Engineering Design,contracts@ironbark-example.com.au,Critical,engineering.manager@yourorg.com.au,2026-03-25,Not Due,,,,,,,,,,,,,,,,,Subcontracted design work with access to Defence technical data
+V005,ClearSign eSignature,vendor.risk@clearsign-example.com,High,legal.counsel@yourorg.com.au,2026-05-15,Not Due,,,,,,,,,,,,,,,,,Electronic signing of contracts and NDAs
+V006,TalentBridge Recruitment Platform,security@talentbridge-example.com,High,hr.manager@yourorg.com.au,2026-08-20,Approved,,,,,,,,,86,Low,,approve,Sanku,2026-08-20,,,Applicant tracking system incl. clearance eligibility info
+V007,Meridian IT Support,service.desk@meridian-example.com.au,High,it.manager@yourorg.com.au,2026-04-20,Not Due,,,,,,,,,,,,,,,,,Managed service provider with privileged remote access
+V008,SecureVault Offsite Backup,security@securevault-example.com.au,High,it.manager@yourorg.com.au,,Not Due,,,,,,,,,,,,,,,,,"Offsite backup storage (newly onboarded, never assessed)"
+V009,Pulse Survey Analytics,privacy@pulsesurvey-example.com,Medium,hr.manager@yourorg.com.au,2025-10-12,Not Due,,,,,,,,,,,,,,,,,Staff engagement surveys
+V010,Kestrel Travel Management,compliance@kestreltravel-example.com.au,Medium,finance.manager@yourorg.com.au,2025-08-01,Escalated,2026-08-05,2026-09-02,2,2026-08-26,2026-09-10,,,,,,,,,,,,Corporate travel bookings incl. passport details
+V011,Harbour Legal Services,it@harbourlegal-example.com.au,Medium,legal.counsel@yourorg.com.au,2026-02-10,Not Due,,,,,,,,,,,,,,,,,"External legal counsel, contract and IP matters"
+V012,Cobalt Learning Platform,security@cobaltlearn-example.com,Medium,security.manager@yourorg.com.au,2026-03-01,Approved with Conditions,,,,,,,,,71,Medium,,approve-with-conditions,Nikhil,2026-03-01,Provide evidence of MFA enforcement for all admin staff,2026-09-15,Security awareness training LMS
+V013,Greenleaf Office Supplies,accounts@greenleaf-example.com.au,Low,facilities.manager@yourorg.com.au,2025-06-18,Not Due,,,,,,,,,,,,,,,,,Stationery and office consumables (portal account only)
+V014,Swift Print & Mail,info@swiftprint-example.com.au,Low,facilities.manager@yourorg.com.au,2024-09-01,Not Due,,,,,,,,,,,,,,,,,Printing of marketing and non-sensitive documents
+V015,Evergreen Facilities Cleaning,admin@evergreenclean-example.com.au,Low,facilities.manager@yourorg.com.au,2026-01-15,Not Due,,,,,,,,,,,,,,,,,Office cleaning (after-hours physical access)
+V016,Brightline Catering,orders@brightline-example.com.au,Low,,2026-05-05,Not Due,,,,,,,,,,,,,,,,,Event and meeting catering
